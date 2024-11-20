@@ -14,8 +14,3 @@ To run this program, you will need Python 3.x and the following Python libraries
 
 - `requests` for making HTTP requests
 - `beautifulsoup4` for parsing HTML content
-
-You can install them using pip:
-
-```bash
-pip install requests beautifulsoup4
